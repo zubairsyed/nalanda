@@ -83,7 +83,7 @@ Book availability summary
 ## Setup Instructions:
 
 1. Clone the repo:
-   git clone https://github.com/your-username/nalanda-library.git
+   git clone https://github.com/zubairsyed/nalanda.git
    cd nalanda
 
 2. Install dependencies:
